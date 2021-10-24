@@ -1,0 +1,20 @@
+Bootstrap 4:
+-Container & Responseive breakpoints
+https://getbootstrap.com/docs/4.0/layout/overview/
+-Grid System
+https://getbootstrap.com/docs/4.0/layout/grid/
+-Typography
+https://getbootstrap.com/docs/4.0/content/typography/
+-Buttons
+https://getbootstrap.com/docs/4.0/components/buttons/
+-Google Font
+https://fonts.google.com/specimenTab?standard-styles
+-Spacing
+https://getbootstrap.com/docs/4.0/utilities/spacing/
+-Flex
+https://getbootstrap.com/docs/4.0/utilities/flex/
+-Navbar
+https://getbootstrap.com/docs/4.0/components/navbar/
+-Visibility
+https://getbootstrap.com/docs/4.0/utilities/visibility/
+-https://getbootstrap.com/docs/4.0/utilities/display/

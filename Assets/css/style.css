@@ -1,0 +1,50 @@
+.btn-primary{
+    background: #ff9a038c;
+    border: 0;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-primary:hover{
+    background-color: rgb(219, 133, 4);
+    border: 0;
+}
+
+.btn-secondary{
+    background: none;
+    border: 1px solid #BCD0E5;
+    font-size: 16px;
+    font-weight: 400;
+    color: #173A56;
+}
+
+.btn-secondary:hover{
+    background: none;
+    border: 1px solid #849ab1e3;
+    color: #173A56;
+}
+
+.top-wrapper h1{
+    font-family:'Poppins', sans-serif;
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.top-wrapper p{
+    font-family:'Poppins', sans-serif;
+    font-weight: 400;
+    color: #2F281E;
+}
+
+.navbar-nav .nav-link{
+    color: #2F281E;
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+/*No media query since this is the default in Bootstrap*/
+@media only screen and (max-width: 768px) {
+    .btn-primary, .btn-secondary {
+        margin-top: 10px;
+        margin-left: 0 !important;
+    }
+}
